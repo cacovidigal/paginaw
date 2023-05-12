@@ -1,0 +1,17 @@
+.topo_da_pagina{
+    display: flex;
+    background-color:  #24053E;
+    color:  #FFFFFF;
+    width: 23.45rem;
+    height: 30.10rem;
+    
+}
+
+.imagem_celular{
+    width: 18.64rem;
+    height: 11.13rem;
+    left: 2.25rem;
+    top: 24.31rem;
+        
+    
+}
